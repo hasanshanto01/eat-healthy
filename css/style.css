@@ -42,3 +42,12 @@ span {
     /* background-repeat: no-repeat; */
     background-size: cover;
 }
+
+.recipe-header {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+}
